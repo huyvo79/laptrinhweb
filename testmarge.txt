@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thay doi
+=======
+thay doi
+>>>>>>> origin/main
